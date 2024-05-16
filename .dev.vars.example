@@ -1,0 +1,2 @@
+S3_ENDPOINT="s3.ex-example-1.example.com"
+S3_BUCKET="REPLACEME"
